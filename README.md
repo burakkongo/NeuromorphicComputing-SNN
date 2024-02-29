@@ -1,2 +1,6 @@
-# NeuromorphicComputing-SNN
-Analysis of the mechanisms for memory formation and adaptive learning in spiking neural networks
+# Neuromorphic Computing Spiking Neural Networks
+
+
+In this project, we delve into the realm of Neuromorphic Computing, an advanced technology aimed at revolutionizing the efficiency and processing capacity of computers by mimicking the biological processes of the human brain. Neuromorphic Computing employs specially designed hardware that emulates neural structures and mechanisms to process complex, nonlinear information rapidly and energy-efficiently. This technology has the potential to push the boundaries of conventional computer architectures and offers exciting new possibilities in real-time data processing.
+
+Against this backdrop, our focus is on exploring Spiking Neural Networks (SNNs), a key element of Neuromorphic Computing. Our goal is to develop a profound understanding of the mathematical and functional aspects of SNNs, particularly regarding their neuronal dynamics and synaptic plasticity, which are fundamental for memory and learning functions. By combining theoretical research and practical application, we aim to unravel the complex processes within these networks and explore their potentials and challenges. This project aspires to gain new insights into the interfaces between mathematics, neuroscience, and computer science, and deepen the understanding of the underlying mechanisms of SNNs and their applications in the field of Neuromorphic Computing.
