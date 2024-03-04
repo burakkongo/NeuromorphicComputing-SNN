@@ -114,6 +114,3 @@ dmypy.json
 # OS-specific ignored files
 .DS_Store
 Thumbs.db
-
-# Temp directories
-temp/
